@@ -243,3 +243,15 @@ form.sButton input[type=text] {
 	clear: both;
 	display: table;
   }
+.group {
+	display: flex;
+}
+.group1 {
+	flex:1;
+}
+.watch{
+	display: flex;
+}
+.group2{
+	flex: 1;
+}
